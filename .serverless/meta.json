@@ -1,0 +1,21 @@
+{
+  "unknown": {
+    "versionSfCore": null,
+    "versionFramework": "4.4.7",
+    "isWithinCompose": false,
+    "composeOrgName": null,
+    "composeServiceName": null,
+    "command": [],
+    "options": {},
+    "error": {
+      "message": "You must sign in or use a license key with Serverless Framework V.4 and later versions. Please use \"serverless login\".",
+      "stack": "Error: You must sign in or use a license key with Serverless Framework V.4 and later versions. Please use \"serverless login\".\n    at Authentication.getAuthenticatedData (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:686:10535)\n    at async routeNew (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:696:4936)\n    at async commandOnboarding (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:696:1998)\n    at async catchAllHandler (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:721:19702)\n    at async runCommand (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:1011:10875)\n    at async route (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:1011:13424)\n    at async Object.run2 [as run] (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:1011:15173)\n    at async run3 (file:///C:/Users/Francisco/.serverless/releases/4.4.7/package/dist/sf-core.js:1011:16435)"
+    },
+    "machineId": "42a0446b5f3ee702dcdf87ae9e9a0e61",
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  }
+}

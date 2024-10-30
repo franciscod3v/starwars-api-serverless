@@ -1,0 +1,20 @@
+{
+  "name": "starwars-api-serverless",
+  "version": "1.0.0",
+  "description": "Reto de AWS Lambda y DynamoDB, desarrollado por Francisco Palacios",
+  "type": "commonjs",
+  "author": "Francisco Palacios",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.682.0",
+    "@aws-sdk/lib-dynamodb": "^3.682.0",
+    "axios": "^1.7.7",
+    "express": "^4.19.2",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
